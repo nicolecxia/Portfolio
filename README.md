@@ -2,7 +2,7 @@
 
 <td width="90%">
 
-- 🎓 `Mobile Application Developemnt` at Fanshawe College, `Software Engineer` at Shenzhen Polytechnic
+- 🎓 Post-graduate Certificate in `Mobile Application Development`, Diploma in `Software Engineering`
   
 - 👩‍💻 `Senior Engineer` at [Chroma](https://www.chroma.com.cn/cn/index) from 2015 to 2022
 

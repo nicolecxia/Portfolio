@@ -10,6 +10,8 @@
 
 - 🍄 About me: `🐈 person`, `hiking`, `coding`, `thinking`
    
+- 💼 `Open to work`
+  
 - 📮 Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
-
+  
 </td>

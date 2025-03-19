@@ -1,6 +1,8 @@
-# Hey there! Glad you came! 😆
+# 😆 Hey there! Glad you came!
+<div align="center">
+   <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="15" alt="Icon"></a>
+</div>
 
-<td width="90%">
 
 - 🎓 Post-graduate Certificate in `Mobile Application Development`, Diploma in `Software Engineering`
   

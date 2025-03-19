@@ -10,6 +10,6 @@
 
 - 🍄 About me: `🐈 person`, `hiking`, `coding`, `thinking`
    
-- 📮 Feel free to <a href="mailto:nicolecxia@outlook.com">`connect`</a> with me
+- 📮 Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
 
 </td>

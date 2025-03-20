@@ -1,8 +1,8 @@
 # 😆 Hey there! Glad you came!
 
 #### [Visit My Portfolio](https://nicolecxia.vercel.app/)
+#### <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="16" alt="Icon"></a>
 
-- 💼 `Open to work` <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="16" alt="Icon"></a>
 - 🎓 Post-graduate Certificate in `Mobile Application Development`, Diploma in `Software Engineer`
   
 - 👩‍💻 `Senior Engineer` at [Chroma](https://www.chroma.com.cn/cn/index) from 2015 to 2022
@@ -11,7 +11,7 @@
 
 - 🍄 About me: `🐈 person`, `hiking`, `coding`, `thinking`
   
-- 📮 Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
+- 📮 `Open to work` Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
   
 </td>
 

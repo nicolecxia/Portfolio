@@ -1,4 +1,4 @@
-# 😆 Hey there! Glad you came!
+# 😺 Hey, Nicole's so happy you came!
 
 - 🎓 Post-graduate Certificate in `Mobile Application Development`, Diploma in `Software Engineer`
   
@@ -8,7 +8,7 @@
 
 - 💭 `Open to work` <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="16" alt="Icon"></a>
 
-- 🍄 About me: `🐈 person`, `hiking`, `coding`, `thinking`
+- 🍄 Interests: `🐈 person`, `hiking`, `coding`, `thinking`
   
 - 📮 Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
   

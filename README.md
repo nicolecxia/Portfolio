@@ -1,7 +1,11 @@
 # 😆 Hey there! Glad you came!
 
-#### [Visit My Portfolio](https://nicolecxia.vercel.app/)
-#### <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="16" alt="Icon"></a>
+<br>
+<div align="center">
+ <a href="https://www.linkedin.com/in/changqing-xia/"> <img src="https://github.com/nicolecxia/nicolecxia/blob/main/Linkedin-Logo.png" width="60" height="16" alt="Icon"></a>
+</div>
+
+<br>
 
 - 🎓 Post-graduate Certificate in `Mobile Application Development`, Diploma in `Software Engineer`
   
@@ -13,7 +17,7 @@
   
 - 📮 `Open to work` Feel free to [**connect**](mailto:nicolecxia@outlook.com) with me
   
-</td>
+
 
 ## 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolecxia&show_icons=true&theme=radical)
